@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #94ae89;
+  font-family: "Big Shoulders Stencil Text", cursive;
+}
+a {
+  color: #fff;
+}
+button {
+  border: solid 3px black;
+  border-radius: 10%;
+  background-color: #362417;
+  color: white;
+  font-size: 2rem;
+}
+.card {
+  border: solid 2px #99c24d;
+}
+a:hover {
+  color: #777;
+  text-decoration: none;
+}
+.logo {
+  color: #fff;
+}
+.carousel {
+  padding: 5rem 0;
+}
+.carousel-item {
+  border: solid 10px #362417;
+}
+.main3 {
+  font-size: 1.5rem;
+}
+.main4 {
+  height: 300px;
+}
+.nextproject {
+  height: 100%;
+  align-items: center;
+}
+.reserverental {
+  height: 100%;
+}
